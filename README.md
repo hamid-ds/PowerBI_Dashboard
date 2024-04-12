@@ -30,6 +30,8 @@ The following screenshots provide a visual tour of the various components of the
 
 ![dashboard preview](Images/dashboard4.png)
 
+![the data model](Images/model.png)
+
 ## Key Insights
 
 The project unearthed several pivotal insights:
